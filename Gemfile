@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'rmagick'
+gem 'paperclip'
 
 
 # Gems used only for assets and not required
